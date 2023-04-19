@@ -96,8 +96,3 @@ if __name__=="__main__":
     N= 8
     data = {"nRow":N, 'map':z}
     ShortesSlot().main(**data)
-
-    
-    
-    
-    def computeNodes(self,arry:List):
