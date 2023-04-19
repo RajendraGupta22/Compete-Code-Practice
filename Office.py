@@ -5,6 +5,8 @@ space between adjacent col is 0
 
 find nearest V -  vacant place near Manager M
 
+url : https://github.com/RajendraGupta22/Compete-Code-Practice/blob/main/LAZY%20INTERN%20JAVA%20PROBLEM.docx
+
 """
 
 
